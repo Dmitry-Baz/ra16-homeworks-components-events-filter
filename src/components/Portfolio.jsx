@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import { projects } from '../data';
 import Toolbar from './Toolbar';
 import ProjectList from './ProjectList';
